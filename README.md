@@ -1,6 +1,6 @@
 ### Olá, eu sou o Alan Sprea 👋
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/alansprea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansprea&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansprea&layout=compact&langs_count=7&theme=codeSTACKr"/>
