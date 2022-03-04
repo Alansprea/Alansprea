@@ -1,7 +1,5 @@
 ### Olá, eu sou o Alan Sprea 👋
 <br>
-<br>
-
 <div align="center">
   <a href="https://github.com/alansprea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansprea&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -10,26 +8,18 @@
 </div>
 <div style="display: inline_block"><br>
   
-  ✔ Tecnologias que eu uso
+  <h4>✔ Tecnologias que eu uso</h4>
   
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ##
-  <h4> 📚  Learning</h4>
-  
+  <img align="center" alt="Javasrcipt" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <h4 style="display: inline-block"> 📚  Learning</h4>
    <img align="center" alt="Rafa-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
-  
-  
-  
-##
-  
-    
-  
+
+  ##
   <h4>📧 Contatos</h4>
 
   
